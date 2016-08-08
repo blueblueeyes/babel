@@ -34,7 +34,6 @@
     "babel-plugin-transform-regenerator": "^6.9.0"
   },
   "devDependencies": {
-    "babel-helper-transform-fixture-test-runner": "^6.13.2",
-    "babel-helper-plugin-test-runner": "^6.8.0"
+    "babel-helper-transform-fixture-test-runner": "^6.13.2"
   }
 }

@@ -17,8 +17,5 @@
     "babylon": "^6.6.5",
     "private": "~0.1.5"
   },
-  "license": "BSD",
-  "devDependencies": {
-    "babel-helper-plugin-test-runner": "^6.8.0"
-  }
+  "license": "BSD"
 }
