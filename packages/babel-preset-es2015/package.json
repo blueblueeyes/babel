@@ -32,8 +32,5 @@
     "babel-plugin-transform-es2015-typeof-symbol": "^6.6.0",
     "babel-plugin-transform-es2015-unicode-regex": "^6.3.13",
     "babel-plugin-transform-regenerator": "^6.9.0"
-  },
-  "devDependencies": {
-    "babel-helper-transform-fixture-test-runner": "^6.13.2"
   }
 }

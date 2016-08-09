@@ -30,9 +30,6 @@
   "optionalDependencies": {
     "chokidar": "^1.0.0"
   },
-  "devDependencies": {
-    "babel-helper-fixtures": "^6.9.0"
-  },
   "bin": {
     "babel-doctor": "./bin/babel-doctor.js",
     "babel": "./bin/babel.js",
